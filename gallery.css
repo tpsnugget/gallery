@@ -1,0 +1,13 @@
+.jumbotron {
+   margin-top: 20px;
+   color: #2C3E50;
+   background-color: #ECF0F1;
+}
+
+body {
+   padding: 70px;
+}
+
+.bg-dark {
+   background-color: #2C3E50!important;
+}
